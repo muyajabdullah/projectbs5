@@ -1,0 +1,28 @@
+.img_blog{
+	padding: 60px 0;
+}
+.container{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.i_b{
+	text-align: center;
+}
+
+.img_item{
+	box-sizing: border-box;
+	float: left;
+	width: 25%;
+	padding: 0 4px;
+}
+.i_b h1{
+	font-size: 50px;
+	font-weight: 700;
+	padding-top: 100px;
+	margin: 0;
+	display: inline-block;
+}
+.width100 {
+	width: 100%; 
+}
